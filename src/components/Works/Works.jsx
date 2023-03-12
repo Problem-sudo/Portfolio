@@ -34,7 +34,7 @@ const Works = () => {
             <br />
             ispum is simpley dummy text of printing
           </spane> */}
-          <Link to="Contact" smooth={true} spy={true}>
+          <Link to="portfolio" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>
           </Link>
           <div

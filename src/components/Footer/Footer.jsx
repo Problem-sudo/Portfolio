@@ -10,7 +10,19 @@ const Footer = () => {
     <div className="footer">
       <img src={Wave} alt="" style={{ width: "100%" }} />
       <div className="f-content">
-        <span>portfolioanit@gmail.com</span>
+      <spane>
+      <br /><br /><br />
+            anitmaurya563@gmail.com
+            <br />
+            <br />
+            +919598036104
+            {/* text */}
+            {/* <br />
+            y dummy text of printingLorem
+            <br />
+            ispum is simpley dummy text of printing */}
+          </spane>
+        {/* <span>+919598036104</span> */}
         <div className="f-icons">
             <a href="https://www.instagram.com/anit._.m/">
 
