@@ -36,14 +36,14 @@ const Navbar = () => {
                 Portfolio
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="testimonial" spy={true} smooth={true}>
                 Testimonial
               </Link>
-            </li>
+            </li> */}
      </ul>
   </div>
-  <Link to="testimonial" spy={true} smooth={true}>
+  <Link to="portfolio" spy={true} smooth={true}>
 <button className="button n-button" >
 Contact
 

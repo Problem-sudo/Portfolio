@@ -21,10 +21,10 @@ const Works = () => {
         <div className="awesome">
           {/* dark Mode */}
           <span style={{ color: darkMode ? "white" : "" }}>
-            Works for All these
+            Works with All these
           </span>
           <span>Brands & Clients</span>
-          <spane>
+          {/* <spane>
             Lorem ispum is simpley dummy text of printing of printing Lorem
             <br />
             ispum is simpley dummy text of printingLorem ispum is simpley dummy
@@ -33,7 +33,7 @@ const Works = () => {
             y dummy text of printingLorem
             <br />
             ispum is simpley dummy text of printing
-          </spane>
+          </spane> */}
           <Link to="Contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>
           </Link>

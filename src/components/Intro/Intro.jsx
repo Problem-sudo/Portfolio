@@ -37,7 +37,7 @@ const Intro = () => {
             producting the Quality work</span>
              </div>
              
-             <Link to="Contact" smooth={true} spy={true}>
+             <Link to="portfolio" spy={true} smooth={true}>
           <button className="button i-button">Hire me</button>
             </Link>
             <div className="i-icons">
